@@ -56,7 +56,7 @@ This project is a web-based Python code reviewer application built using Streaml
 To use the Gemini AI model, you need to obtain an API key. Follow these steps:
 
 1. **Sign up for an account**:
-    - Visit the [Gemini AI website](https://ai.google/tools/) and sign up for an account.
+    - Visit the [Console Cloud website](https://console.cloud.google.com/) and sign up for an account.
 
 2. **Generate an API key**:
     - After logging in, navigate to the API section of your account.
@@ -122,5 +122,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
+For any questions or inquiries, please contact [Nithish] at [nsr631607@gmail.com].
 
