@@ -1,0 +1,6 @@
+streamlit
+requests
+google-generativeai
+streamlit_ace
+uuid
+datetime
