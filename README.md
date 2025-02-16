@@ -25,8 +25,8 @@ This project is a web-based Python code reviewer application built using Streaml
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/nithish-2003/Innomatics-task02
+    cd Innomatics-task02
     ```
 
 2. **Install the required packages**:
